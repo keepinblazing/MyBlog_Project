@@ -1,34 +1,44 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1>MY BLOG</h1>
 
-## Getting Started
+## Introduce
 
-First, run the development server:
+### 프로젝트명
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+Myblog
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 개발 기간
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+### 개발 취지
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-## Learn More
+## 주요 기능
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Tools
+![github](https://user-images.githubusercontent.com/103014298/190316017-c8dd72bd-e4a3-408a-ad1f-91a9a2075947.png) ![githubaction](https://user-images.githubusercontent.com/103014298/190316019-80876c33-c15f-4f75-b4a9-cd908d24d736.png)  ![figma](https://user-images.githubusercontent.com/103014298/190316137-5f96be1b-e212-49c8-9db2-3fc0a4988111.png)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## WireFrame
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Architecture
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+## 🧑‍💻 Member
+
+<div align="center">
+
+
+</div>
+
+## Skill Set
+
+<div align="center">
+
+| Front | Language | severless | Design |
+| :---: | :---: | :---: | :---: |
+| ![nextjs](https://user-images.githubusercontent.com/103014298/192147551-146b5aaa-afc9-44d3-8987-278f6dd6bf8a.png)|![ts](https://user-images.githubusercontent.com/103014298/192147572-577befe5-2e96-44b1-9435-0d93583ef333.png) | ![firebase](https://user-images.githubusercontent.com/103014298/192147585-ad1ade9f-8d63-4462-b226-c4e466c0929e.png) | ![figma](https://user-images.githubusercontent.com/103014298/192147605-0b84851f-5a5e-4bfa-9253-1ae13cd70a72.png) | 
+| NextJs | TypeScript | Firebase | Figma |
+
+</div>
